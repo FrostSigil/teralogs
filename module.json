@@ -1,0 +1,12 @@
+{
+    "name": "teralogs",
+    "author": "Frost",
+    "description": "Searchs on teralogs.com for the inspected character.",
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/teralogs/master/"],
+    "options": {
+        "niceName": "TeraLogs",
+        "guiName": "TeraLogs"
+    },
+    "disableAutoUpdate": false,
+    "disabled": false
+}
