@@ -1,7 +1,7 @@
 # teralogs
 
 Opens the teralogs.com page of any character you inspect.
-![](https://ibb.co/BB3KX62)
+![](https://i.ibb.co/QMQj2Hv/image.png)
 
 Site : (https://teralogs.com/)
 Discord : (https://discord.gg/zpSwrVuhfJ)
